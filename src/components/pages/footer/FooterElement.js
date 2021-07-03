@@ -15,13 +15,13 @@ export const Title = styled.h3`
 `
 export const SubTitle = styled.p`
   font-family:'Poppins' , sans-serif;
-  font-width:500;
+  font-weight:500;
   opacity:.6;
 `
 
 export const FooterLink = styled(Link)`
    font-family:'Poppins' ,sans-serif;
-   font-width:800;
+   font-weight:800;
    color:white;
    opacity:.6;
    transition : all .5s;
@@ -45,14 +45,14 @@ export const SocialMediaIcon  = styled.div`
    display:block;
 `
 
-const socialMediaLink = styled.a`
-  color : white;
-  opacity:.6;
-  &:hover {
-    color:white;
-    opacity:1;
-  }
-`
+// const socialMediaLink = styled.a`
+//   color : white;
+//   opacity:.6;
+//   &:hover {
+//     color:white;
+//     opacity:1;
+//   }
+// `
 
 export const NavLink = styled.div`
   text-transform : uppercase;

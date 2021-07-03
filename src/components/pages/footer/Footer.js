@@ -1,7 +1,7 @@
 import {VscGithub} from 'react-icons/vsc';
 import {FaInstagram} from 'react-icons/fa';
 
-import { FooterSection,Title ,FooterLink ,SubTitle , SocialMediaIcon ,NavLink ,socialMediaLink} from './FooterElement';
+import { FooterSection,Title ,FooterLink ,SubTitle , SocialMediaIcon ,NavLink} from './FooterElement';
 
 export default function Footer() {
   return (
