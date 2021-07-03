@@ -1,5 +1,5 @@
 
-import {Wrapper , Row , Title , SubTitle , Desc , Container} from '../../GlobelStyledComponents/GlobalStyle';
+import {Title , SubTitle , Desc} from '../../GlobelStyledComponents/GlobalStyle';
 
 
 export default function Services() {
